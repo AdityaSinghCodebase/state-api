@@ -9,52 +9,52 @@ app.use(express.json());
 const states = [
   {
     id: 1,
-    state: "Madhya Pradesh",
+    name: "Madhya Pradesh",
     capital: "Bhopal",
   },
   {
     id: 2,
-    state: "Maharashtra",
+    name: "Maharashtra",
     capital: "Mumbai",
   },
   {
     id: 3,
-    state: "Rajasthan",
+    name: "Rajasthan",
     capital: "Jaipur",
   },
   {
     id: 4,
-    state: "Gujarat",
+    name: "Gujarat",
     capital: "Gandhinagar",
   },
   {
     id: 5,
-    state: "Uttar Pradesh",
+    name: "Uttar Pradesh",
     capital: "Lucknow",
   },
   {
     id: 6,
-    state: "Bihar",
+    name: "Bihar",
     capital: "Patna",
   },
   {
     id: 7,
-    state: "West Bengal",
+    name: "West Bengal",
     capital: "Kolkata",
   },
   {
     id: 8,
-    state: "Tamil Nadu",
+    name: "Tamil Nadu",
     capital: "Chennai",
   },
   {
     id: 9,
-    state: "Kerala",
+    name: "Kerala",
     capital: "Thiruvananthapuram",
   },
   {
     id: 10,
-    state: "Odisha",
+    name: "Odisha",
     capital: "Bhubaneswar",
   },
 ];
